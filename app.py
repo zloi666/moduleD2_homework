@@ -4,10 +4,10 @@ import os
 from bottle import Bottle, request, response, HTTPResponse
 from sentry_sdk.integrations.bottle import BottleIntegration
 
-SERVER_URL = "https://powerful-reaches-50289.herokuapp.com"
+# SERVER_URL = "https://powerful-reaches-50289.herokuapp.com"
 
 sentry_sdk.init(
-    dsn="https://c8cf36597da3461589eff1cc607d2b6e@o495253.ingest.sentry.io/5567698",
+    dsn="sentry dsn place to this",
     integrations=[BottleIntegration()]
 )
 
