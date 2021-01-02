@@ -1,0 +1,12 @@
+bottle==0.12.19
+certifi==2020.11.8
+chardet==3.0.4
+idna==2.8
+Pygments==2.7.2
+PySocks==1.7.1
+pystache==0.5.4
+requests==2.22.0
+requests-toolbelt==0.9.1
+sentry-sdk==0.16.2
+urllib3==1.25.11
+gunicorn

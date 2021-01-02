@@ -1,0 +1,6 @@
+{
+  "name": "D2 homework",
+  "description": "Try to start app on heroku",
+  "image": "heroku/python",
+  "keywords": ["python", "bottle" ]
+}
